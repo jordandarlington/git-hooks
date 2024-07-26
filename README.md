@@ -8,6 +8,10 @@
 
 ---
 
+## Introduction
+
+This repo contains a collection of git hooks that can be used to automate certain tasks when working with git.
+
 ## Set up
 
 Remove the file extension from the chosen hook and copy it to the `.git/hooks` directory of your project.

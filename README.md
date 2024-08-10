@@ -8,6 +8,8 @@
 
 ---
 
+DEVELOP-TEST
+
 ## Introduction
 
 This repo contains a collection of git hooks that can be used to automate certain tasks when working with git.

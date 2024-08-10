@@ -24,6 +24,10 @@ Ensure the file is executable by running `chmod +x .git/hooks/<hook-name>`.
 
 This script will prepend the branch name to the commit message.
 
+#### pre-push
+
+This script will prevent pulling or merging the develop branch into either the main or master branches.
+
 ---
 
 ## License
